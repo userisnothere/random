@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+<head>
+<title>Toothpaste Toggle</title>
+<style>
+.flexbox {
+flex: 100%;
+background-color: lightGray;
+}
+.main {
+font-family: arial;
+font-weight: light;
+font-size: 20pt;
+}
+</style>
+<script type="text/javascript">
+
+</script>
+</head>
+<body>
+<div class="flexbox">
+<p id="main">This is the thing, and we call the thing, <em>toothpaste</em>. This is to be the <b>strongest</b> thing on <em>earth</em>. We encourage you to <em>not</em> use this, because it is <b><u>dangerous</u></b>.</p>
+</div>
+</body>
+</html>
